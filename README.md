@@ -1,1 +1,2 @@
-#Crud_App Project
+# Crud_App
+A Web project using PHP
